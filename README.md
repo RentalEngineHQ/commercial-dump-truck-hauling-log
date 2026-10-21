@@ -1,5 +1,4 @@
-
-# Commercial Dump Truck & Aggregate Hauling Log Back-Office Operating System & Fleet Logistics Ledger
+# Commercial Dump Truck & Hauling Log Excel Spreadsheet (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
@@ -10,7 +9,7 @@ Corporate Operations Back-Office Dashboard & Standalone Management Engine
 ### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
 Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com/l/lvnvmr)
 
 *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
