@@ -1,0 +1,14 @@
+{
+  "asset_class": "Commercial Dump Truck Hauling Log Excel Spreadsheet",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "daily_aggregate_tonnage_tickets",
+    "quarry_manifest_logs",
+    "multi_vehicle_dispatch_trackers",
+    "driver_payroll"
+  ]
+}
